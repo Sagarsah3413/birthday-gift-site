@@ -1,4 +1,5 @@
 # Birthday GIFt Site
+https://idyllic-chebakia-fca045.netlify.app/
 
 Celebrate birthdays with a personalized webpage filled with unique GIFs that convey your best wishes in a fun and interactive way. This project lets users hover over gift images to reveal special birthday messages through animated GIFs. It’s built with HTML, CSS, and a sprinkle of JavaScript for interactivity. Perfect for sending personalized birthday greetings to friends and family!
 
