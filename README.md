@@ -1,21 +1,26 @@
-# co62848058fb784dcfc9d02ab
+# Birthday GIFt Site
 
-Quick start:
+Celebrate birthdays with a personalized webpage filled with unique GIFs that convey your best wishes in a fun and interactive way. This project lets users hover over gift images to reveal special birthday messages through animated GIFs. It’s built with HTML, CSS, and a sprinkle of JavaScript for interactivity. Perfect for sending personalized birthday greetings to friends and family!
 
-```
-$ npm install
-$ npm start
-````
+## Features
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+- **Personalized Birthday Greetings:** A special page dedicated to the birthday person with customizable messages.
+- **Interactive GIF Gifts:** Each gift reveals a unique, themed GIF when hovered over, adding an element of surprise and delight.
+- **Responsive Design:** Crafted to provide a seamless experience on devices of varying sizes.
+- **Easy Customization:** Easily change texts, images, and GIFs to personalize the greeting for anyone.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Technology Stack
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- **HTML5:** For structuring the web page and its content.
+- **CSS3:** For styling, including the use of gradients and hover effects.
+- **Google Fonts:** 'Happy Monkey' font to add a playful and friendly vibe.
+- **Normalize.css:** To ensure that browsers render all elements more consistently.
 
-Happy Coding!
+## Setup
+
+To run this project locally, follow these steps:
+
+1. Clone the repository to your local machine.
+   ```bash
+   git clone <repository-url>
+   ```
